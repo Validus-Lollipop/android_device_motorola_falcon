@@ -44,6 +44,7 @@ void init_msm_properties(unsigned long msm_id, unsigned long msm_ver, char *boar
     char device[PROP_VALUE_MAX];
     char devicename[PROP_VALUE_MAX];
     char cdma_variant[92];
+    char fstype[92];
     FILE *fp;
     int rc;
 
