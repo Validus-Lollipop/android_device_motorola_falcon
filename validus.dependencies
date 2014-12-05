@@ -7,9 +7,9 @@
 },
 {
 "remote": "gh",
-"repository": "fermasia/android_kernel_motorola_msm8226",
+"repository": "fermasia/donkeykk",
 "target_path": "kernel/motorola/msm8226",
-"revision": "donkeyv3b"
+"revision": "v4"
 },
 {
 "remote": "gh",
